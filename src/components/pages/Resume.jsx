@@ -12,7 +12,7 @@ function Resume() {
                 <section>
                     <aside className='resume'>
                         <figure>
-                            <embed
+                            <iframe
                                 src={resume}
                                 />
                         </figure>
@@ -21,7 +21,7 @@ function Resume() {
                 <section>
                     <aside>
                         <figure className='certificate'>
-                            <embed
+                            <iframe
                                 src={certificate}
                                 />
                         </figure>
