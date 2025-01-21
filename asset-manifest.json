@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio2025/static/css/main.d7090cb3.css",
-    "main.js": "/portfolio2025/static/js/main.e58babce.js",
+    "main.css": "/portfolio2025/static/css/main.6d2481aa.css",
+    "main.js": "/portfolio2025/static/js/main.f7d986de.js",
     "static/js/488.51baac09.chunk.js": "/portfolio2025/static/js/488.51baac09.chunk.js",
     "static/media/Code3Graphix.png": "/portfolio2025/static/media/Code3Graphix.271e3b2a30343d3e26f2.png",
     "static/media/2025Resume.pdf": "/portfolio2025/static/media/2025Resume.3ffb0174df7c4681a139.pdf",
@@ -15,12 +15,12 @@
     "static/media/Linkedin.svg": "/portfolio2025/static/media/Linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/Close.svg": "/portfolio2025/static/media/Close.fb4cabc3dd433946ff0b50f2c1f39c67.svg",
     "static/media/Hamburger.svg": "/portfolio2025/static/media/Hamburger.444d0e11927b4093fcb9984b421bfade.svg",
-    "main.d7090cb3.css.map": "/portfolio2025/static/css/main.d7090cb3.css.map",
-    "main.e58babce.js.map": "/portfolio2025/static/js/main.e58babce.js.map",
+    "main.6d2481aa.css.map": "/portfolio2025/static/css/main.6d2481aa.css.map",
+    "main.f7d986de.js.map": "/portfolio2025/static/js/main.f7d986de.js.map",
     "488.51baac09.chunk.js.map": "/portfolio2025/static/js/488.51baac09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7090cb3.css",
-    "static/js/main.e58babce.js"
+    "static/css/main.6d2481aa.css",
+    "static/js/main.f7d986de.js"
   ]
 }
