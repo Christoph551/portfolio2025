@@ -15,12 +15,12 @@ function App() {
     <div className='App'>
 
       <Routes>
-            <Route path="/" element={<AppContainer />}>
+            <Route path="portfolio2025/" element={<AppContainer />}>
               <Route index element={<AboutMe />} />
-              <Route path="/Portfolio" element={<Portfolio />} />
+              <Route path="portfolio2025/Portfolio" element={<Portfolio />} />
               {/* <Route path="/Contact" element={<Contact />} /> */}
-              <Route path="/Resume" element={<Resume />} />
-              <Route path="/:text?" element={<AboutMe />} />
+              <Route path="portfolio2025/Resume" element={<Resume />} />
+              <Route path="portfolio2025/:text?" element={<AboutMe />} />
             </Route>
       </Routes>
 
