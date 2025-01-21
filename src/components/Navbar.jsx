@@ -27,25 +27,25 @@ function Navbar() {
                             </a>
                         </li>
                         <li className='hideOnDesktop'>
-                            <Link id='aboutMe' to='/'>About Me</Link>
+                            <Link id='aboutMe' to='portfolio2025/'>About Me</Link>
                         </li>
                         <li className='hideOnDesktop'>
-                            <Link id='portfolio' to='/Portfolio'>Portfolio</Link>
+                            <Link id='portfolio' to='portfolio2025/Portfolio'>Portfolio</Link>
                         </li>
                         <li className='hideOnDesktop'>
-                            <Link id='resume' to='/Resume'>Resume</Link>
+                            <Link id='resume' to='portfolio2025/Resume'>Resume</Link>
                         </li>
                     </ul>
                 </div>
                 <ul className='navbar-list'>
                     <li className='hideOnMobile'>
-                        <Link to='/'>About Me</Link>
+                        <Link to='portfolio2025/'>About Me</Link>
                     </li>
                     <li className='hideOnMobile'>
-                        <Link to='/Portfolio'>Portfolio</Link>
+                        <Link to='portfolio2025/Portfolio'>Portfolio</Link>
                     </li>
                     <li className='hideOnMobile'>
-                        <Link to='/Resume'>Resume</Link>
+                        <Link to='portfolio2025/Resume'>Resume</Link>
                     </li>
                     <li className='menuBtn' onClick={showHamburgerMenu}>
                         <a href='#'>
